@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: e04781665e3d70345814428afdb0216b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4694916590343791099
+    second: xlw running_0
+  - first:
+      213: 239319359668354993
+    second: xlw running_1
+  - first:
+      213: 2918061610614354799
+    second: xlw running_2
+  - first:
+      213: -5714356908092080384
+    second: xlw running_3
+  - first:
+      213: 1885212533337478632
+    second: xlw running_4
+  - first:
+      213: -8255551197858875212
+    second: xlw running_5
+  - first:
+      213: 6380052305667910407
+    second: xlw running_6
+  - first:
+      213: 7124755902701531088
+    second: xlw running_7
+  - first:
+      213: 8871900912670934284
+    second: xlw running_8
+  - first:
+      213: 1432164313632285741
+    second: xlw running_9
+  - first:
+      213: 6282125613335845567
+    second: xlw running_10
+  - first:
+      213: 510314368319030426
+    second: xlw running_11
+  - first:
+      213: 1908134572616644685
+    second: xlw running_12
+  - first:
+      213: -5243355746697783778
+    second: xlw running_13
+  - first:
+      213: -9147950860122409011
+    second: xlw running_14
+  - first:
+      213: 1564843909787665228
+    second: xlw running_15
+  - first:
+      213: 634456896493114829
+    second: xlw running_16
+  - first:
+      213: 8177498078265503899
+    second: xlw running_17
+  - first:
+      213: 6558323869824409674
+    second: xlw running_18
+  - first:
+      213: -1113280741817948641
+    second: xlw running_19
+  - first:
+      213: -628769093923952918
+    second: xlw running_20
+  - first:
+      213: 8975768601917873481
+    second: xlw running_21
+  - first:
+      213: 6608136583285461714
+    second: xlw running_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xlw running_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1379
+        width: 242
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1a781a3c1b72140800000000000000
+      internalID: 4694916590343791099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_1
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1399
+        width: 222
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bff7ec80bb325300800000000000000
+      internalID: 239319359668354993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_3
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1359
+        width: 289
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f3f550ba682b0b0800000000000000
+      internalID: -5714356908092080384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1409
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5d1bf8fce992a10800000000000000
+      internalID: 1885212533337478632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_5
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1439
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b83292ece36e6d80800000000000000
+      internalID: -8255551197858875212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 729
+        width: 290
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05073eefd25f1b70800000000000000
+      internalID: 8871900912670934284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_9
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 749
+        width: 222
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d242b06fad110e310800000000000000
+      internalID: 1432164313632285741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_10
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 799
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba144116f79e2750800000000000000
+      internalID: 6282125613335845567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_12
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 738
+        width: 233
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f478b84e0b7a10800000000000000
+      internalID: 1908134572616644685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1653179abbdb37b0800000000000000
+      internalID: -5243355746697783778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 91
+        width: 254
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5d4c49f2b0ec800800000000000000
+      internalID: 634456896493114829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_17
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 99
+        width: 285
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90747a0d2f4c7170800000000000000
+      internalID: 8177498078265503899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_19
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 109
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1668a05015dc80f0800000000000000
+      internalID: -1113280741817948641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlw running_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 139
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d5b6fdcf5509c70800000000000000
+      internalID: 8975768601917873481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 15e4be11394c9fe4a82ccfe99a84a513
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      xlw running_0: 4694916590343791099
+      xlw running_1: 239319359668354993
+      xlw running_10: 6282125613335845567
+      xlw running_11: 510314368319030426
+      xlw running_12: 1908134572616644685
+      xlw running_13: -5243355746697783778
+      xlw running_14: -9147950860122409011
+      xlw running_15: 1564843909787665228
+      xlw running_16: 634456896493114829
+      xlw running_17: 8177498078265503899
+      xlw running_18: 6558323869824409674
+      xlw running_19: -1113280741817948641
+      xlw running_2: 2918061610614354799
+      xlw running_20: -628769093923952918
+      xlw running_21: 8975768601917873481
+      xlw running_22: 6608136583285461714
+      xlw running_3: -5714356908092080384
+      xlw running_4: 1885212533337478632
+      xlw running_5: -8255551197858875212
+      xlw running_6: 6380052305667910407
+      xlw running_7: 7124755902701531088
+      xlw running_8: 8871900912670934284
+      xlw running_9: 1432164313632285741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
